@@ -1,0 +1,61 @@
+class_name,file_name,nasa_id,title,source_url
+galaxy,galaxy_000.jpg,GSFC_20171208_Archive_e001569,Hubble Views a Dwarf Galaxy,https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001569/GSFC_20171208_Archive_e001569~small.jpg
+galaxy,galaxy_001.jpg,GSFC_20171208_Archive_e000017,Hubble’s Hunting Dog Galaxy,https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000017/GSFC_20171208_Archive_e000017~medium.jpg
+galaxy,galaxy_002.jpg,GSFC_20171208_Archive_e000504,Hubble Views a Young Elliptical Galaxy,https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000504/GSFC_20171208_Archive_e000504~medium.jpg
+galaxy,galaxy_003.jpg,GSFC_20171208_Archive_e000001,Hubble's Megamaser Galaxy,https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000001/GSFC_20171208_Archive_e000001~medium.jpg
+galaxy,galaxy_004.jpg,GSFC_20171208_Archive_e000022,Hubble’s Hidden Galaxy,https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000022/GSFC_20171208_Archive_e000022~medium.jpg
+galaxy,galaxy_005.jpg,GSFC_20171208_Archive_e000117,Hubble's Glittering Frisbee Galaxy,https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000117/GSFC_20171208_Archive_e000117~medium.jpg
+galaxy,galaxy_006.jpg,GSFC_20171208_Archive_e000154,Hubble Spotlight on Irregular Galaxy,https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000154/GSFC_20171208_Archive_e000154~small.jpg
+galaxy,galaxy_007.jpg,GSFC_20171208_Archive_e000506,A Galaxy at the Center of the Hubble Tuning Fork,https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000506/GSFC_20171208_Archive_e000506~small.jpg
+galaxy,galaxy_008.jpg,GSFC_20171208_Archive_e000278,Hubble Reveals Stellar Fireworks in ‘Skyrocket’ Galaxy,https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000278/GSFC_20171208_Archive_e000278~medium.jpg
+galaxy,galaxy_009.jpg,GSFC_20171208_Archive_e000158,Hubble Spies Spiral Galaxy,https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000158/GSFC_20171208_Archive_e000158~medium.jpg
+galaxy,galaxy_010.jpg,GSFC_20171208_Archive_e000025,Hubble Eyes a Powerful Galaxy,https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000025/GSFC_20171208_Archive_e000025~medium.jpg
+galaxy,galaxy_011.jpg,GSFC_20171208_Archive_e001151,Hubble Sees Galaxies Spiraling around Leo,https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001151/GSFC_20171208_Archive_e001151~small.jpg
+galaxy,galaxy_012.jpg,GSFC_20171208_Archive_e000492,Hubble Views Two Galaxies Merging,https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000492/GSFC_20171208_Archive_e000492~medium.jpg
+galaxy,galaxy_013.jpg,GSFC_20171208_Archive_e000687,Hubble peeks at a spiral galaxy,https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000687/GSFC_20171208_Archive_e000687~small.jpg
+galaxy,galaxy_014.jpg,GSFC_20171208_Archive_e000394,Hubble Sees a Legion of Galaxies,https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000394/GSFC_20171208_Archive_e000394~small.jpg
+galaxy,galaxy_015.jpg,GSFC_20171208_Archive_e000268,Hubble Spots a Secluded Starburst Galaxy,https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000268/GSFC_20171208_Archive_e000268~small.jpg
+galaxy,galaxy_016.jpg,PIA22079,NASA's Hubble Spots Embryonic Galaxy SPT0615-JD,https://images-assets.nasa.gov/image/PIA22079/PIA22079~small.jpg
+galaxy,galaxy_017.jpg,GSFC_20171208_Archive_e000052,"Hubble Catches a Galaxy Duo by the ""Hare""",https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000052/GSFC_20171208_Archive_e000052~small.jpg
+galaxy,galaxy_018.jpg,hubble-reveals-stellar-fireworks-in-skyrocket-galaxy_27946907106_o,Hubble Reveals Stellar Fireworks in ‘Skyrocket’ Galaxy,https://images-assets.nasa.gov/image/hubble-reveals-stellar-fireworks-in-skyrocket-galaxy_27946907106_o/hubble-reveals-stellar-fireworks-in-skyrocket-galaxy_27946907106_o~medium.jpg
+galaxy,galaxy_019.jpg,GSFC_20171208_Archive_e000012,Hubble's Hockey Stick Galaxy,https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000012/GSFC_20171208_Archive_e000012~medium.jpg
+nebula,nebula_000.jpg,GSFC_20171208_Archive_e001464,Hubble reveals the Ring Nebula’s true shape,https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001464/GSFC_20171208_Archive_e001464~small.jpg
+nebula,nebula_001.jpg,GSFC_20171208_Archive_e001955,Hubble reveals heart of Lagoon Nebula,https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001955/GSFC_20171208_Archive_e001955~medium.jpg
+nebula,nebula_002.jpg,GSFC_20171208_Archive_e000699,Hubble View of a Nitrogen-Rich Nebula,https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000699/GSFC_20171208_Archive_e000699~medium.jpg
+nebula,nebula_003.jpg,GSFC_20171208_Archive_e001743,Hubble Images Searchlight Beams from a Preplanetary Nebula,https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001743/GSFC_20171208_Archive_e001743~small.jpg
+nebula,nebula_004.jpg,PIA03606,Most Detailed Image of the Crab Nebula,https://images-assets.nasa.gov/image/PIA03606/PIA03606~medium.jpg
+nebula,nebula_005.jpg,PIA04216,Ant Nebula,https://images-assets.nasa.gov/image/PIA04216/PIA04216~small.jpg
+nebula,nebula_006.jpg,GSFC_20171208_Archive_e002076,"Hubble Captures Spectacular ""Landscape"" in the Carina Nebula",https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002076/GSFC_20171208_Archive_e002076~medium.jpg
+nebula,nebula_007.jpg,PIA04226,Ghost Head Nebula,https://images-assets.nasa.gov/image/PIA04226/PIA04226~small.jpg
+nebula,nebula_008.jpg,PIA17563,"Crab Nebula, as Seen by Herschel and Hubble",https://images-assets.nasa.gov/image/PIA17563/PIA17563~medium.jpg
+nebula,nebula_009.jpg,PIA14442,Hubble Finds an Hourglass Nebula around a Dying Star,https://images-assets.nasa.gov/image/PIA14442/PIA14442~medium.jpg
+nebula,nebula_010.jpg,PIA04225,N44C nebula,https://images-assets.nasa.gov/image/PIA04225/PIA04225~medium.jpg
+nebula,nebula_011.jpg,PIA04227,Orion Nebula and Bow Shock,https://images-assets.nasa.gov/image/PIA04227/PIA04227~small.jpg
+nebula,nebula_012.jpg,GSFC_20171208_Archive_e000273,NASA's Hubble Captures the Beating Heart of the Crab Nebula,https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000273/GSFC_20171208_Archive_e000273~small.jpg
+nebula,nebula_013.jpg,GSFC_20171208_Archive_e000637,Hubble Sees the Wings of a Butterfly: The Twin Jet Nebula,https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000637/GSFC_20171208_Archive_e000637~small.jpg
+nebula,nebula_014.jpg,GSFC_20171208_Archive_e000134,Hubble sniffs out a brilliant star death in a “rotten egg” nebula,https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000134/GSFC_20171208_Archive_e000134~small.jpg
+nebula,nebula_015.jpg,GSFC_20171208_Archive_e001465,Planetary Nebula,https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001465/GSFC_20171208_Archive_e001465~small.jpg
+nebula,nebula_016.jpg,PIA04215,Horsehead Nebula,https://images-assets.nasa.gov/image/PIA04215/PIA04215~thumb.jpg
+nebula,nebula_017.jpg,PIA04249,"Close-up of M27, the Dumbbell Nebula",https://images-assets.nasa.gov/image/PIA04249/PIA04249~small.jpg
+nebula,nebula_018.jpg,PIA03678,The Mark of a Dying Star,https://images-assets.nasa.gov/image/PIA03678/PIA03678~medium.jpg
+nebula,nebula_019.jpg,9700431,History of Hubble Space Telescope (HST),https://images-assets.nasa.gov/image/9700431/9700431~small.jpg
+star_cluster,star_cluster_000.jpg,GSFC_20171208_Archive_e000191,Hubble Admires a Youthful Globular Star Cluster,https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000191/GSFC_20171208_Archive_e000191~medium.jpg
+star_cluster,star_cluster_001.jpg,GSFC_20171208_Archive_e001677,Hubble Watches Star Clusters on a Collision Course,https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001677/GSFC_20171208_Archive_e001677~medium.jpg
+star_cluster,star_cluster_002.jpg,GSFC_20171208_Archive_e000282,Hubble Friday - Heavy Metal Stars,https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000282/GSFC_20171208_Archive_e000282~small.jpg
+star_cluster,star_cluster_003.jpg,GSFC_20171208_Archive_e000679,Hubble Uncovering the Secrets of the Quintuplet Cluster,https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000679/GSFC_20171208_Archive_e000679~small.jpg
+star_cluster,star_cluster_004.jpg,GSFC_20171208_Archive_e000256,A Hubble Sky Full of Stars,https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000256/GSFC_20171208_Archive_e000256~small.jpg
+star_cluster,star_cluster_005.jpg,GSFC_20171208_Archive_e000635,Hubble Sees a Youthful Cluster,https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000635/GSFC_20171208_Archive_e000635~small.jpg
+star_cluster,star_cluster_006.jpg,GSFC_20171208_Archive_e001789,Young Stars at Home in Ancient Cluster,https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001789/GSFC_20171208_Archive_e001789~small.jpg
+star_cluster,star_cluster_007.jpg,PIA04231,White Dwarf Stars,https://images-assets.nasa.gov/image/PIA04231/PIA04231~small.jpg
+star_cluster,star_cluster_008.jpg,PIA20468,Hubble Unveils a Tapestry of Dazzling Diamond-Like Stars,https://images-assets.nasa.gov/image/PIA20468/PIA20468~medium.jpg
+star_cluster,star_cluster_009.jpg,PIA13616,Shedding Bent Light on Dark Matter,https://images-assets.nasa.gov/image/PIA13616/PIA13616~small.jpg
+star_cluster,star_cluster_010.jpg,PIA04221,Galaxy NGC 1850,https://images-assets.nasa.gov/image/PIA04221/PIA04221~thumb.jpg
+star_cluster,star_cluster_011.jpg,PIA10957,"Hubble Unveils Colorful and Turbulent Star-Birth Region on 100,000th Orbit Milestone",https://images-assets.nasa.gov/image/PIA10957/PIA10957~medium.jpg
+star_cluster,star_cluster_012.jpg,hubble-uncovering-the-secrets-of-the-quintuplet-cluster_19779352405_o,Uncovering the secrets of the Quintuplet Cluster,https://images-assets.nasa.gov/image/hubble-uncovering-the-secrets-of-the-quintuplet-cluster_19779352405_o/hubble-uncovering-the-secrets-of-the-quintuplet-cluster_19779352405_o~small.jpg
+star_cluster,star_cluster_013.jpg,hubble-catches-stellar-exodus-in-action_17644845341_o,Hubble Catches Stellar Exodus in Action,https://images-assets.nasa.gov/image/hubble-catches-stellar-exodus-in-action_17644845341_o/hubble-catches-stellar-exodus-in-action_17644845341_o~medium.jpg
+star_cluster,star_cluster_014.jpg,GSFC_20171208_Archive_e000722,Hubble Catches Stellar Exodus in Action,https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000722/GSFC_20171208_Archive_e000722~medium.jpg
+star_cluster,star_cluster_015.jpg,hubble-peers-into-the-most-crowded-place-in-the-milky-way_18051161100_o,The most crowded place in the Milky Way,https://images-assets.nasa.gov/image/hubble-peers-into-the-most-crowded-place-in-the-milky-way_18051161100_o/hubble-peers-into-the-most-crowded-place-in-the-milky-way_18051161100_o~small.jpg
+star_cluster,star_cluster_016.jpg,hubble-sees-a-youthful-cluster_20330747093_o,A youthful cluster,https://images-assets.nasa.gov/image/hubble-sees-a-youthful-cluster_20330747093_o/hubble-sees-a-youthful-cluster_20330747093_o~small.jpg
+star_cluster,star_cluster_017.jpg,GSFC_20171208_Archive_e002049,Starburst Cluster Shows Celestial Fireworks,https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002049/GSFC_20171208_Archive_e002049~medium.jpg
+star_cluster,star_cluster_018.jpg,GSFC_20171208_Archive_e000123,Hubble Hones In on a Hypergiant's Home,https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000123/GSFC_20171208_Archive_e000123~small.jpg
+star_cluster,star_cluster_019.jpg,GSFC_20171208_Archive_e001017,Hubble Revisits a Globular Cluster’s Age,https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001017/GSFC_20171208_Archive_e001017~medium.jpg

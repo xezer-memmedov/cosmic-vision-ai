@@ -1,0 +1,25 @@
+# Python virtual environment
+.venv/
+venv/
+
+# PyCharm settings
+.idea/
+
+# macOS
+.DS_Store
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+
+# Large local data and models
+dataset/
+outputs/Videos/
+outputs/video_frames/
+*.mp4
+*.pth
+
+# Generated CSV files
+outputs/frame_metrics.csv
+outputs/video_predictions.csv

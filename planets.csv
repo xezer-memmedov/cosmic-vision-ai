@@ -1,0 +1,9 @@
+planet,distance_from_sun_au,orbital_period_days,mass_earth,radius_earth
+Merkuri,0.387,88.0,0.055,0.383
+Venera,0.723,224.7,0.815,0.949
+Yer,1.000,365.25,1.000,1.000
+Mars,1.524,687.0,0.107,0.532
+Yupiter,5.203,4331.0,317.8,11.21
+Saturn,9.537,10747.0,95.16,9.45
+Uran,19.191,30589.0,14.54,4.01
+Neptun,30.069,59800.0,17.15,3.88

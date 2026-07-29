@@ -1,0 +1,6 @@
+EXOPLANET ANALİZ NƏTİCƏLƏRİ
+===================================
+
+Regression RMSE: 397.20 K
+Regression R²: 0.285
+Classification Accuracy: 0.909
