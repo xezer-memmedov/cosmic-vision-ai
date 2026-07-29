@@ -83,3 +83,7 @@ cosmic-vision-ai/
 ├── dataset_sources.csv
 ├── pyproject.toml
 └── README.md
+
+## Author
+
+Xezer Memmedov
